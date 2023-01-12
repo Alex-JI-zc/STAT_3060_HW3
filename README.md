@@ -1,4 +1,3 @@
-# STAT_3060_HW3
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <script type="text/javascript"> window.PLOTLYENV=window.PLOTLYENV || {}; if (document.getElementById("2b77c490-a4b4-430f-a0cf-e81fad84f41a")) { Plotly.newPlot( "2b77c490-a4b4-430f-a0cf-e81fad84f41a", [{"alignmentgroup":"True","bingroup":"x","hovertemplate":"YEAR=1962
 STRSTATE=%{x}
